@@ -8,3 +8,5 @@ pub fn fib(i: u32) -> u32 {
         _ => fib(i-1) + fib(i-2)
     }
 }
+
+// 添加emoji
